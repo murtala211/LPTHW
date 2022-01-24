@@ -1,0 +1,6 @@
+# first make a sample file
+echo "This is a test file." > text.text
+# then look at It
+cat text.text
+This is a test file.
+# now run our script on It
